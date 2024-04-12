@@ -36,3 +36,4 @@ This project is licensed under the MIT License.
 ## Acknowledgments
 
 - Claude 3 Opus AI by [Anthropic](https://claude.ai/chats)
+---
