@@ -16,6 +16,7 @@ The application allows users to upload lab test images and extract text from the
 ## Preview
 
 ![Image 1](image1.png)
+---
 ![Image 2](image2.png)
 
 ## Contributing
