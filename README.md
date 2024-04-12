@@ -36,7 +36,3 @@ This project is licensed under the MIT License.
 ## Acknowledgments
 
 - Claude 3 Opus AI by [Anthropic](https://claude.ai/chats)
-
----
-
-Feel free to customize this README template further to include any additional information specific to your project. If you have any questions or need further assistance, let me know!
